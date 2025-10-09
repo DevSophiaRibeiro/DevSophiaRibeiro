@@ -25,8 +25,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevSophiaRibeiro&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=false&custom_title=Linguagens%20que%20mais%20uso" height="180" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=DevSophiaRibeiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=pt-br&hide_border=false&custom_title=Estat%C3%ADsticas%20do%20meu%20GitHub" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevSophiaRibeiro&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=false&custom_title=Linguagens%20que%20mais%20uso" height="180" alt="languages graph"  />
 </div>
 
 ###
@@ -43,8 +43,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/DevSophiaRibeiro/DevSophiaRibeiro/output/snake.svg" alt="Snake animation" />
 
